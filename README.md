@@ -1,4 +1,4 @@
 # level4
 Git-Real lvl4
 
-ONLY User B CAN commit code into remote repo - REBASE"
+User A AND B BOTH CAN commit code into remote repo - REBASE is beautiful"
